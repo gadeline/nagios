@@ -6,8 +6,8 @@ import mysql.connector
 
 mydb = mysql.connector.connect(
   host="localhost",
-  user="nagios_read",
-  passwd="N@Gios01!",
+  user="",
+  passwd="",
   database="wordpress_db"
 )
 
