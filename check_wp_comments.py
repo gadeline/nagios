@@ -1,5 +1,15 @@
 #!/usr/bin/env python2.7
 
+#############################################################
+#
+# Author: Guillaume ADELINE
+# Date: 15/02/2019
+# Desc: Count the numbers of articles into the specific table
+#
+#############################################################
+
+
+
 import sys
 import mysql.connector
 
